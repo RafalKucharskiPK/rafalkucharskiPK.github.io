@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: papers
 description: Journal publications (IF only) in reverse chronological order starting with pre-prints.
-years: [2020, 2019, 2017]
+years: [2021, 2020, 2019, 2017]
 order: 3
 ---
 
