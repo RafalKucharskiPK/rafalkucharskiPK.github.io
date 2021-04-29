@@ -30,7 +30,7 @@ Outside of academia I was:
 * R&D Developer at PTV SISTeMA implementing algorithms into [PTV Optima](https://www.ptvgroup.com/en/solutions/products/ptv-optima/) real-time  traffic forecasting models.
 * Transport Modeller at [Department of Transportation Systems](http://www.kst.pk.edu.pl/) using travel-diaries to estimate demand models and create strategic planning tools, e.g. for [Warsaw](http://transport.um.warszawa.pl/warszawskie-badanie-ruchu-2015/model-ruchu) and [Kraków](http://knsk.org/2015/01/krakowski-model-ruchu-2014/)
 
-From 2021 to 2024 I will run the *NCN Opus Grant* on Shared Mobility in the pandemic times, we are looking for two prospective PhD students willing to research in Network Science and Behavioural Modelling in Kraków, Poland.
+From 2021 to 2024 I will run the *NCN Opus Grant* on Shared Mobility in the pandemic times. I will join the Faculty of Mathematics and Computer Science of Jagiellonian University in Krakow (est. 1364) and build a team to research complex social systems of urban mobility within the [DigiWorld](https://id.uj.edu.pl/en_GB/digiworld) scheme. We are looking for two prospective PhD students willing to research in Network Science and Behavioural Modelling in Kraków, Poland, see details in the '_open positions_' tab.
 
 
 <img src="/./assets/img/TU.jpg" alt="drawing" width="150"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/./assets/img//SPTL.png" alt="drawing" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/./assets/img/CM.png" alt="drawing" width="120"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/assets/img/LOGO-ERC.jpg" alt="drawing" width="80"/>
