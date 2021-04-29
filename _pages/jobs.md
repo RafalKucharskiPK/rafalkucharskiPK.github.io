@@ -21,14 +21,14 @@ You will be based in the beautiful city of Krakow (top 10 tourist destination in
 We look for prospective candidates to develop our research into the two following directions: 
 
 
-###1: Contact networks of emerging urban mobility modes - modelling, design and simulation
+### 1: Contact networks of emerging urban mobility modes - modelling, design and simulation
 
 You will reconstruct and analyse contact networks emerging in ride-sharing systems (WP2). You will apply existing and develop new models to match mobility demand into pooled rides. You will employ epidemic models on the networks. You will apply behavioural findings from WP1 and translate them into network connectivity. You will run multi-dimensional stochastic simulations of various network and demand settings to quantify and synthesize virus exposure in shared mobility. In WP3 you will propose methods that will limit spreading and eventually halt it.
 
 We are looking for enthusiastic and motivated applicants with a background in networks and data. Open-minded applicants ready to apply their skill on the interdisciplinary ground (mobility, behaviour, epidemics, network science, data analytics) welcomed. The candidate should hold a STEM masters degree (preferably Computer Science, Mathematics, Physics or Engineering), shall have basic coding and data analysis skills. Fluent reading and writing English is essential for this position.
 
 
-###2: Reveal, understand and model post-pandemic travel behaviour towards emerging mobility models.
+### 2: Reveal, understand and model post-pandemic travel behaviour towards emerging mobility models.
 
 You will study travellers behaviour in urban mobility (WP1). In the rapidly changing landscape of urban mobility, you shall aim to track the emerging trends, identify dynamics in behaviour to precisely define market shares and target groups for future shared mobility. In the abundance of recent, corona-related research in mobility, you shall synthesize the latest theories, studies and findings to underpin our shared-mobility models. You shall conduct behavioural studies. Both revealed and stated preference studies to quantify and describe mobility behaviour. Three pillars of your PhD will be:
 
@@ -39,7 +39,7 @@ As an ideal candidate, you should hold a Master Degree in Econometrics, Transpor
 
 ---
 
-###We offer:
+### We offer:
 
 
 * young and friendly team,
@@ -54,7 +54,7 @@ As an ideal candidate, you should hold a Master Degree in Econometrics, Transpor
 
 ---
 
-###Process:
+### Process:
 
 
 You will be enrolled on a [Doctoral School of Exact and Natural Sciences at Jagiellonian University](https://science.phd.uj.edu.pl/) and receive an extra scholarship from NCN OPUS project, summing up to the total of **6300PLN** net for the first two years, then rising to **7500PLN** net.
