@@ -62,14 +62,17 @@ You will be enrolled on a [Doctoral School of Exact and Natural Sciences at Jagi
 The process is two stages:
 
 1. In the first stage, you contact directly the PI (r.m.kucharski _at_ tudelft.nl) for the recommendation letter, which is issued subject to the positive outcome of the job interview.
-2. In the second stage, you are recommended by the PI to be recruited at the doctoral school and undergo the recreation, which ends 8 june 2021 ( [details](www.science.phd.uj.edu.pl))
+2. In the second stage, you are recommended by the PI to be recruited at the doctoral school and undergo the recreation, which ends *8 june 2021* ( [details](www.science.phd.uj.edu.pl))
+3. In the third stage you enrol to the NCN Opus project for external scholarship, which shall be finalized before the starting date (1 Oct 2021)
 
 
 _To apply please send:_
 
-* CV
-* Motivation letter including your view on the project and how you may contribute/
-* Summary of your Master Thesis and brief description of its relevance for this project
+* a *curriculum vitae* (CV) with particular reference to academic achievements (max. 2 A4
+pages);
+* description of the proposed subject of the doctoral dissertation with relation to the above project (max. 2 A4
+pages);
+* Summary of your Master Thesis (completed or in-progress) and brief description of its relevance for this project. 
 
 
 
