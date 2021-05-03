@@ -59,7 +59,7 @@ As an ideal candidate, you should hold a Master Degree in Econometrics, Transpor
 
 You will be enrolled on a [Doctoral School of Exact and Natural Sciences at Jagiellonian University](https://science.phd.uj.edu.pl/) and receive an extra scholarship from NCN OPUS project, summing up to the total of **6300PLN** net for the first two years, then rising to **7500PLN** net.
 
-The process is two stages:
+The process is following:
 
 1. In the first stage, you contact directly the PI (r.m.kucharski _at_ tudelft.nl) for the recommendation letter, which is issued subject to the positive outcome of the job interview.
 2. In the second stage, you are recommended by the PI to be recruited at the doctoral school and undergo the recreation, which ends *8 june 2021* ( [details](www.science.phd.uj.edu.pl))
