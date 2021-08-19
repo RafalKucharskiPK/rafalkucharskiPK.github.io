@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Rafał Kucharski </strong>
-description: PostDoc, TU Delft, Netherlands
+description: Assistant Professor, Jagiellonian University, Krakow, Poland
 
 profile:
   align: right
