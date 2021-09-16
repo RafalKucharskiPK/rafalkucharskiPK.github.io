@@ -17,15 +17,21 @@ You will be based in the charming city of Krakow (one of top 10 tourist destinat
 
 ---
 
-We look for prospective candidates to develop our research into the two following directions: 
+We are looking for prospective candidates to develop our research into the two following directions: 
 
 ### PostDoc
 
 You will work with recent disruptive changes of urban mobility, focusing on two-sided mobility platforms. You will apply and develop our in-house algorithms ([ExMAS](https://github.com/RafalKucharskiPK/ExMAS) and [MaaSSim](https://github.com/RafalKucharskiPK/MaaSSim) and cutting edge external sofwares (e.g. [FLOW](https://flow-project.github.io/). You will work in the small core team of PI, you and two PhDs and thus will receive direct and supportive supervision. Your benchmark perofrmance will be two first-authored Q1 papers in a year. The team has ambition to publish in high-impact transportation journals (TR:B, TR:C), ML conferences (ICML, KDD, NeurIPS) and inter-disciplinary journals (PLOS One, Scientific Reports, etc.). You will work within a strong machine-learning lab [GMUM](www.gmum.net) of 20+ reserarchers with great hands-on experience in Deep Learning, NLP, RL, etc. You will be part of interdisciplinary DigiWorld group addressing challenges of digitalization (from social, theoretical and technological perspectives). You will be part of core ecosystem of transportation engineering (TU Delft, DTU, etc.). You will receive support in personal grants writing. You will have no teaching obligations.
 
+Possible research areas:
+* shareability graph of ride-pooling (network science analysis)
+* behavioural aspects of ride-pooling (discrete choice analysis)
+* reinforcement learning in two-sided mobility markets (agents adaptations)
+* etc.
+
 We offer a 2-year position (extensible to 3-years) with a competitive salary (6000 PLN net - which is ca. double the average in Poland). 
 
-Please share your CV and brief cover letter to rafal.kucharski@uj.edu.pl
+Please share your CV and a brief cover letter at rafal.kucharski@uj.edu.pl
 
 
 ~~### 1: Contact networks of emerging urban mobility modes - modelling, design and simulation~~
