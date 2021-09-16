@@ -28,9 +28,9 @@ We offer a 2-year position (extensible to 3-years) with a competitive salary (60
 Please share your CV and brief cover letter to rafal.kucharski@uj.edu.pl
 
 
-### 1: Contact networks of emerging urban mobility modes - modelling, design and simulation
+~~### 1: Contact networks of emerging urban mobility modes - modelling, design and simulation~~
 
-~~You will reconstruct and analyse contact networks emerging in ride-sharing systems (WP2). You will apply existing and develop new models to match mobility demand into pooled rides. You will employ epidemic models on the networks. You will apply behavioural findings from WP1 and translate them into network connectivity. You will run multi-dimensional stochastic simulations of various network and demand settings to quantify and synthesize virus exposure in shared mobility. In WP3 you will propose methods that will limit spreading and eventually halt it.
+~~You will reconstruct and analyse contact networks emerging in ride-sharing systems (WP2). You will apply existing and develop new models to match mobility demand into pooled rides. You will employ epidemic models on the networks. You will apply behavioural findings from WP1 and translate them into network connectivity. You will run multi-dimensional stochastic simulations of various network and demand settings to quantify and synthesize virus exposure in shared mobility. In WP3 you will propose methods that will limit spreading and eventually halt it.~~
 
 ~~We are looking for enthusiastic and motivated applicants with a background in networks and data. Open-minded applicants ready to apply their skill on the interdisciplinary ground (mobility, behaviour, epidemics, network science, data analytics) welcomed. The candidate should hold a STEM masters degree (preferably Computer Science, Mathematics, Physics or Engineering), shall have basic coding and data analysis skills. Fluent reading and writing English is essential for this position.
 
