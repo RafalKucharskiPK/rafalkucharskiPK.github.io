@@ -6,26 +6,33 @@ description: We are looking for new faces to support our exciting research
 order: 4
 ---
 
-We have two open positions for PhD’s in the field of Urban Mobility - modelling and optimizing the complexity of urban travel in presence of emerging modes (shared-mobility, ride-hailing, etc.) and post-pandemic safety issues.
+We have three open positions in the field of Urban Mobility and Machine Learning - modelling and optimizing the complexity of urban travel in presence of emerging modes (shared-mobility, ride-hailing, etc.) and post-pandemic safety issues.
+
+
+Positions (funded by the NCN OPUS personal grant with a competitive salary (6300-7500 PLN net) are interdisciplinary, originating from transport systems but directed towards a number of exciting interdisciplinary fields, e.g. Network Science, Reinforcerment Learning, Social Systems and Data Science.
 
 
 
-Positions (funded by the NCN OPUS personal grant with a competitive salary 6300-7500 PLN net) are interdisciplinary, originating from transport systems but directed towards a number of exciting interdisciplinary fields.
-
-
-
-You will be based in the beautiful city of Krakow (top 10 tourist destination in Europe) at the Jagiellonian University (est. 1364, with Nicolaus Copernicus among alumni, [video](https://www.youtube.com/watch?v=Km61cWOsF4M)). The project will be run at Faculty of Mathematics and Computer Science within a strong ecosystem of DataScience, Machine Learning and Optimization groups. Together with the [PI](rafalkucharskiPK.github.io) you will work on this [project](https://www.ncn.gov.pl/sites/default/files/listy-rankingowe/2020-03-16pfoa/streszczenia/480109-en.pdf).
+You will be based in the charming city of Krakow (one of top 10 tourist destination in Europe) at the Jagiellonian University (est. 1364, with Nicolaus Copernicus among alumni, [video](https://www.youtube.com/watch?v=Km61cWOsF4M)). The project will be run at Faculty of Mathematics and Computer Science within a strong ecosystem of DataScience, Machine Learning and Optimization groups. Together with the [PI](rafalkucharskiPK.github.io) you will work on this [project](https://www.ncn.gov.pl/sites/default/files/listy-rankingowe/2020-03-16pfoa/streszczenia/480109-en.pdf).
 
 ---
 
 We look for prospective candidates to develop our research into the two following directions: 
 
+### PostDoc
+
+You will work with recent disruptive changes of urban mobility, focusing on two-sided mobility platforms. You will apply and develop our in-house algorithms ([ExMAS](https://github.com/RafalKucharskiPK/ExMAS) and [MaaSSim](https://github.com/RafalKucharskiPK/MaaSSim) and cutting edge external sofwares (e.g. [FLOW](https://flow-project.github.io/). You will work in the small core team of PI, you and two PhDs and thus will receive direct and supportive supervision. Your benchmark perofrmance will be two first-authored Q1 papers in a year. The team has ambition to publish in high-impact transportation journals (TR:B, TR:C), ML conferences (ICML, KDD, NeurIPS) and inter-disciplinary journals (PLOS One, Scientific Reports, etc.). You will work within a strong machine-learning lab [GMUM](www.gmum.net) of 20+ reserarchers with great hands-on experience in Deep Learning, NLP, RL, etc. You will be part of interdisciplinary DigiWorld group addressing challenges of digitalization (from social, theoretical and technological perspectives). You will be part of core ecosystem of transportation engineering (TU Delft, DTU, etc.). You will receive support in personal grants writing. You will have no teaching obligations.
+
+We offer a 2-year position (extensible to 3-years) with a competitive salary (6000 PLN net - which is ca. double the average in Poland). 
+
+Please share your CV and brief cover letter to rafal.kucharski@uj.edu.pl
+
 
 ### 1: Contact networks of emerging urban mobility modes - modelling, design and simulation
 
-You will reconstruct and analyse contact networks emerging in ride-sharing systems (WP2). You will apply existing and develop new models to match mobility demand into pooled rides. You will employ epidemic models on the networks. You will apply behavioural findings from WP1 and translate them into network connectivity. You will run multi-dimensional stochastic simulations of various network and demand settings to quantify and synthesize virus exposure in shared mobility. In WP3 you will propose methods that will limit spreading and eventually halt it.
+~~You will reconstruct and analyse contact networks emerging in ride-sharing systems (WP2). You will apply existing and develop new models to match mobility demand into pooled rides. You will employ epidemic models on the networks. You will apply behavioural findings from WP1 and translate them into network connectivity. You will run multi-dimensional stochastic simulations of various network and demand settings to quantify and synthesize virus exposure in shared mobility. In WP3 you will propose methods that will limit spreading and eventually halt it.
 
-We are looking for enthusiastic and motivated applicants with a background in networks and data. Open-minded applicants ready to apply their skill on the interdisciplinary ground (mobility, behaviour, epidemics, network science, data analytics) welcomed. The candidate should hold a STEM masters degree (preferably Computer Science, Mathematics, Physics or Engineering), shall have basic coding and data analysis skills. Fluent reading and writing English is essential for this position.
+~~We are looking for enthusiastic and motivated applicants with a background in networks and data. Open-minded applicants ready to apply their skill on the interdisciplinary ground (mobility, behaviour, epidemics, network science, data analytics) welcomed. The candidate should hold a STEM masters degree (preferably Computer Science, Mathematics, Physics or Engineering), shall have basic coding and data analysis skills. Fluent reading and writing English is essential for this position.
 
 
 ### 2: Reveal, understand and model post-pandemic travel behaviour towards emerging mobility models.
