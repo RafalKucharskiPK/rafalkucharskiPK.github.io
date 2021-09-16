@@ -61,7 +61,7 @@ As an ideal candidate, you should hold a Master Degree in Econometrics, Transpor
 
 ---
 
-### Process:
+### Process (PhD):
 
 
 You will be enrolled on a [Doctoral School of Exact and Natural Sciences at Jagiellonian University](https://science.phd.uj.edu.pl/) and receive an extra scholarship from NCN OPUS project, summing up to the total of **6300PLN** net for the first two years, then rising to **7500PLN** net.
@@ -83,5 +83,5 @@ pages);
 
 
 
-Please contact me via mail r.m.kucharski _at_ tudelft.nl for appliactions.
+Please contact me via mail rafal.kucharski _at_ uj.edu.pl for appliactions.
 
