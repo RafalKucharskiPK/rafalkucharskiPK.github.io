@@ -9,7 +9,7 @@ order: 4
 We have three open positions in the field of Urban Mobility and Machine Learning - modelling and optimizing the complexity of urban travel in presence of emerging modes (shared-mobility, ride-hailing, etc.) and post-pandemic safety issues.
 
 
-Positions (funded by the NCN OPUS personal grant with a competitive salary (6300-7500 PLN net) are interdisciplinary, originating from transport systems but directed towards a number of exciting interdisciplinary fields, e.g. Network Science, Reinforcerment Learning, Social Systems and Data Science.
+Positions (funded by the NCN OPUS personal grant with a competitive salary are interdisciplinary, originating from transport systems but directed towards a number of exciting interdisciplinary fields, e.g. Network Science, Reinforcerment Learning, Social Systems and Data Science.
 
 
 
@@ -17,21 +17,31 @@ You will be based in the charming city of Krakow (one of top 10 tourist destinat
 
 ---
 
-We are looking for prospective candidates to develop our research into the two following directions: 
+We are looking for prospective candidates to develop research into the following directions: 
 
 ### PostDoc
 
-You will work with recent disruptive changes of urban mobility, focusing on two-sided mobility platforms. You will apply and develop our in-house algorithms ([ExMAS](https://github.com/RafalKucharskiPK/ExMAS) and [MaaSSim](https://github.com/RafalKucharskiPK/MaaSSim) and cutting edge external sofwares (e.g. [FLOW](https://flow-project.github.io/). You will work in the small core team of PI, you and two PhDs and thus will receive direct and supportive supervision. Your benchmark perofrmance will be two first-authored Q1 papers in a year. The team has ambition to publish in high-impact transportation journals (TR:B, TR:C), ML conferences (ICML, KDD, NeurIPS) and inter-disciplinary journals (PLOS One, Scientific Reports, etc.). You will work within a strong machine-learning lab [GMUM](www.gmum.net) of 20+ reserarchers with great hands-on experience in Deep Learning, NLP, RL, etc. You will be part of interdisciplinary DigiWorld group addressing challenges of digitalization (from social, theoretical and technological perspectives). You will be part of core ecosystem of transportation engineering (TU Delft, DTU, etc.). You will receive support in personal grants writing. You will have no teaching obligations.
+You will work with recent disruptive changes of urban mobility, focusing on two-sided mobility platforms. You will apply and develop our in-house algorithms ([ExMAS](https://github.com/RafalKucharskiPK/ExMAS) and [MaaSSim](https://github.com/RafalKucharskiPK/MaaSSim)) and cutting edge external sofwares (e.g. [FLOW](https://flow-project.github.io/)). 
+
+* You will work in the small core team of PI, yourself and two PhDs and thus will receive direct and supportive supervision. 
+* Your benchmark perofrmance will be directed towards boosting your CV (to secure long-term emplyability). We expect you to submit two first-authored Q1 papers in a year. The team has ambition to publish in high-impact transportation journals (TR:B, TR:C), ML conferences (ICML, KDD, NeurIPS) and inter-disciplinary journals (PLOS One, Scientific Reports, etc.). 
+* You will work within a strong machine-learning lab [GMUM](www.gmum.net) of 20+ reserarchers with great hands-on experience in Deep Learning, NLP, RL, etc. 
+* You will be part of interdisciplinary DigiWorld group addressing challenges of digitalization (from social, theoretical and technological perspectives). 
+* You will join core ecosystem of transportation engineering (TU Delft, DTU, etc.). 
+* You will receive support in personal grants writing. 
+* You will have no teaching obligations.
+* You will have stable 24 months funding (ca. double the mean salary in Poland) sufficient to support you and family in Krakow.
 
 Possible research areas:
-* shareability graph of ride-pooling (network science analysis)
+* shareability graphs of ride-pooling (network science analysis)
 * behavioural aspects of ride-pooling (discrete choice analysis)
 * reinforcement learning in two-sided mobility markets (agents adaptations)
-* etc.
+* control stategies for virus spreading in multi-layered complex networks
+* or similar - to be brainstormed with PI.
 
 We offer a 2-year position (extensible to 3-years) with a competitive salary (6000 PLN net - which is ca. double the average in Poland). 
 
-Please share your CV and a brief cover letter at rafal.kucharski@uj.edu.pl
+Please share your CV and a brief cover letter at rafal.kucharski@uj.edu.pl - we will contact selected candidates for a brief talk.
 
 
 ~~### 1: Contact networks of emerging urban mobility modes - modelling, design and simulation~~
@@ -79,7 +89,7 @@ The process is following:
 3. In the third stage you enrol to the NCN Opus project for external scholarship, which shall be finalized before the starting date (1 Oct 2021)
 
 
-_To apply please send:_
+_To apply (PhD) please send:_
 
 * a *curriculum vitae* (CV) with particular reference to academic achievements (max. 2 A4
 pages);
